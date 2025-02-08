@@ -1,0 +1,12 @@
+@media (min-width:0px)and (max-width: 1200px) {
+    .arrow-my {
+        display: none !important;
+    }
+
+}
+
+@media (max-width:576px) {
+    .img-disabledd {
+        display: none;
+    }
+}
